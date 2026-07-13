@@ -14,7 +14,7 @@ B.Com (Computers) Graduate | MBA (Marketing) | Data Science Enthusiast
 
 🎓 **B.Com (Computers)** Graduate
 
-🎓 **MBA (Marketing)** Graduate
+🎓 **MBA (Marketing)** Post Graduate
 
 📚 Currently learning **Data Science**
 

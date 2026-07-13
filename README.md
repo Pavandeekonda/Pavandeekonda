@@ -81,16 +81,6 @@ B.Com (Computers) Graduate | MBA (Marketing) | Data Science Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pavandeekonda&theme=tokyonight&no-frame=true&row=1"/>
-
-</p>
-
----
-
 # 📊 Activity Graph
 
 <p align="center">
